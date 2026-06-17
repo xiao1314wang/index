@@ -40,6 +40,10 @@ git merge feature-v0.1 # 将 v0.1 的改动合入 master
 git push origin master
 
 
+# 6. 把本地的版本号的也推上去
+git push origin V0.5
+
+
 
 
 #### 使用说明
